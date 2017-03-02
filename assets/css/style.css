@@ -939,7 +939,49 @@ border:1px solid #fff;
     }
 }
 
-
+  <style type="text/css">
+         .slick-dots li.slick-active button::before {
+         opacity: .75;
+         color: orange;
+         font-size: 75px;
+         }
+         .slick-dots li button::before {
+         font-size: 75px !important;
+         color: color: #716e6e !important;
+         }
+         .slick-prev:before,
+         .slick-next:before {
+         color: orange;
+         }
+         #slick-slide21, #slick-slide20 {
+         display: none !important;
+         }
+         .home_h1{
+         text-align: center;
+         padding-bottom: 15px;
+         color: rgba(128, 126, 126, 0.59);
+         font-size: 25px;
+         }
+         .home_p{
+         color: #757373;
+         text-align: center;
+         margin-left: 25%;
+         width: 50%;
+         }
+         .home_h2{
+         font-size: 16px;
+         font-weight: bold;
+         }
+         .home_container{
+         margin-top: 57px;
+         }
+         .home_p_section{
+         }
+         .fa_icon{
+         color:orange !important;
+         font-size: 52px;
+         }
+      </style>
 
 
 
