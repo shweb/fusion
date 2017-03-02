@@ -1,0 +1,178 @@
+@media (min-width:0px) and (max-width:991px) {
+.team-box .team-content p{
+	width: 55%;
+}
+.team-container .team-box .team-img img {
+    width: 250px;
+    height: 270px;
+}
+
+.team-box .team-content {
+    padding: 0px 5px 0px 50px;
+}
+
+
+	.tab-1{
+		margin: 0% 9%;
+	}
+	#menu {
+		display:none;
+	}
+	.pad-top {
+   		 padding-top: 10px!important;
+	}
+	
+	.
+	.about-left {
+    margin-top: 20px;
+	}
+
+	.quote{
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	footer{
+		text-align: center;
+	}
+	.service-content{
+		padding: 0px;
+		margin: 50px auto;
+	}
+
+	.img-s{
+		margin: 0 auto;
+		margin-bottom: 50px;
+	}
+	#header{
+		height:600px;
+	}
+}
+
+
+
+	
+
+
+
+@media (min-width:0px) and (max-width:767px) {
+	 .hiden-boder{
+	 	border-bottom: 1px solid #ebebeb;
+	 } 
+	
+	.border-right{
+		border-right:none;
+	}
+
+/*	RESPONSIVE STYLE FOR landing Page 2*/
+	#nav-1{
+		background: #0E1233;
+		padding-top:0px;
+		height: auto !important
+	}
+	.nav-1-menubar{
+		background:#fff;
+
+	}
+	.nav-1-header .navbar-button,.nav-1-header .navbar-button:hover{
+		border:none
+	}
+	#nav-1 .navbar-brand img{
+		margin:0px;
+	}
+	#nav-1 .navbar-right{
+		text-align: center;
+		margin:0px;
+		padding: 0px
+	}
+	#nav-1 .navbar-right li a{
+		padding:0px 0px;
+		display: inline-block;
+		font-size: 17px
+	}
+	#nav-1 .navbar-right li:first-child{
+		margin-top:20px;
+	}
+	#nav-1 .navbar-right li:last-child{
+		margin-bottom:20px;
+	}
+
+	.landing-page2 .logo{
+	  margin-top:20%;
+	}
+	.quotes-fixed .input-group{
+		width:80%;
+	}
+	.quotes-fixed .input-group-addon{
+		padding:6px 20px;
+	}
+	#header{
+		height:500px;
+	}
+
+}
+
+	
+
+
+@media (min-width:0px) and (max-width: 728px){
+	.team-box .team-content p{
+		width: 100% !important;
+	}
+	#header{
+		height:400px;
+	}
+}
+
+
+
+@media (min-width:0px) and (max-width:541px) {
+	#service .col-md-3 {
+		width: 100%;
+		float: left;
+	}
+	
+	.pad{
+		padding-left: 0px;
+	}
+	.pad2{
+		padding: 20px 0px;
+	}
+
+	.landing-page2 .logo {
+    	margin-top: 35%;
+	}
+	
+}
+
+
+
+
+@media (min-width:0px) and (max-width:360px) {
+	
+	.service-content p {
+	   width: 100%;
+	}
+	.service-content h3 {
+	   
+	    font-size: 22px;
+	   
+	}
+	.service-content p {
+	   
+	    font-size: 19px;
+	   
+	}
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
