@@ -938,8 +938,6 @@ border:1px solid #fff;
         width: 100%;
     }
 }
-
-  <style type="text/css">
          .slick-dots li.slick-active button::before {
          opacity: .75;
          color: orange;
@@ -981,7 +979,7 @@ border:1px solid #fff;
          color:orange !important;
          font-size: 52px;
          }
-      </style>
+    
 
 
 
